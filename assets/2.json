@@ -1,0 +1,93 @@
+{
+  "name": "Immortal #2",
+  "description": " Test Immo",
+  "image": "image.png",
+  "date": 633885941000,
+  "symbol": "IMMO",
+  "seller_fee_basis_points": 0,
+  "collection": {
+    "name": "The Immortals Test",
+    "family": "My Family"
+  },
+  "properties": {
+    "files": [
+      {
+        "url": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "FYUNbLQgti3hqB9D6Uh4Ltqmrannt4RwqNNaYbCfuQxV",
+        "share": 100
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "2ND ITEM HAND",
+      "value": "void"
+    },
+    {
+      "trait_type": "1ST ITEM HAND",
+      "value": "Default"
+    },
+    {
+      "trait_type": "ITEM TYPE 1",
+      "value": "Default"
+    },
+    {
+      "trait_type": "POWER HAND",
+      "value": "Default"
+    },
+    {
+      "trait_type": "POWER ARM",
+      "value": "Power_Arm"
+    },
+    {
+      "trait_type": "EYES GLOW",
+      "value": "fire"
+    },
+    {
+      "trait_type": "HEAD",
+      "value": "head"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "fire"
+    },
+    {
+      "trait_type": "FACE",
+      "value": "base"
+    },
+    {
+      "trait_type": "SHOULDERPAD",
+      "value": "Skeleton"
+    },
+    {
+      "trait_type": "SCARF",
+      "value": "Default"
+    },
+    {
+      "trait_type": "BANNER",
+      "value": "Atreides"
+    },
+    {
+      "trait_type": "ENERGY",
+      "value": "fire"
+    },
+    {
+      "trait_type": "PANTS",
+      "value": "Default"
+    },
+    {
+      "trait_type": "CAPE",
+      "value": "Default"
+    },
+    {
+      "trait_type": "tokenId",
+      "value": 2
+    }
+  ]
+}
